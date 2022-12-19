@@ -2,6 +2,6 @@
 
 Запуск происходит через основной файл, где находится весь код - app.py
 
-База данных находится в файле - database.db
-Коллекция Postman запросов находится в файле - pyLinks.postman_collection.json
+База данных - database.db
+Коллекция Postman запросов - pyLinks.postman_collection.json
 Список внешних зависимостей  - requirements.txt
